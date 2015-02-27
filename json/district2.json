@@ -1,0 +1,92 @@
+[
+  {
+    "id": "central",
+    "name_en": "Central & Western",
+    "name_zh": "中西區"
+  },
+  {
+    "id": "east",
+    "name_en": "Eastern",
+    "name_zh": "東區"
+  },
+  {
+    "id": "island",
+    "name_en": "Islands",
+    "name_zh": "離島"
+  },
+  {
+    "id": "kc",
+    "name_en": "Kwai Tsing",
+    "name_zh": "葵青"
+  },
+  {
+    "id": "klc",
+    "name_en": "Kowloon City",
+    "name_zh": "九龍城"
+  },
+  {
+    "id": "kt",
+    "name_en": "Kwun Tong",
+    "name_zh": "觀塘"
+  },
+  {
+    "id": "north",
+    "name_en": "North",
+    "name_zh": "北區"
+  },
+  {
+    "id": "sk",
+    "name_en": "Sai Kung",
+    "name_zh": "西貢"
+  },
+  {
+    "id": "south",
+    "name_en": "Southern",
+    "name_zh": "南區"
+  },
+  {
+    "id": "ssp",
+    "name_en": "Sham Shui Po",
+    "name_zh": "深水埗"
+  },
+  {
+    "id": "st",
+    "name_en": "Sha Tin",
+    "name_zh": "沙田"
+  },
+  {
+    "id": "tm",
+    "name_en": "Tuen Mun",
+    "name_zh": "屯門"
+  },
+  {
+    "id": "tp",
+    "name_en": "Tai Po",
+    "name_zh": "大埔"
+  },
+  {
+    "id": "tw",
+    "name_en": "Tsuen Wan",
+    "name_zh": "荃灣"
+  },
+  {
+    "id": "wc",
+    "name_en": "Wan Chai",
+    "name_zh": "灣仔"
+  },
+  {
+    "id": "wts",
+    "name_en": "Wong Tai Sin",
+    "name_zh": "黃大仙"
+  },
+  {
+    "id": "yl",
+    "name_en": "Yuen Long",
+    "name_zh": "元朗"
+  },
+  {
+    "id": "ysm",
+    "name_en": "Yau Tsim Mong",
+    "name_zh": "油尖旺"
+  }
+]
