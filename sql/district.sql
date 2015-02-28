@@ -1,0 +1,18 @@
+INSERT INTO district (id, name_en, name_zh) VALUES ('central', 'Central & Western', '中西區');
+INSERT INTO district (id, name_en, name_zh) VALUES ('east', 'Eastern', '東區');
+INSERT INTO district (id, name_en, name_zh) VALUES ('south', 'Southern', '南區');
+INSERT INTO district (id, name_en, name_zh) VALUES ('wc', 'Wan Chai', '灣仔');
+INSERT INTO district (id, name_en, name_zh) VALUES ('klc', 'Kowloon City', '九龍城');
+INSERT INTO district (id, name_en, name_zh) VALUES ('kt', 'Kwun Tong', '觀塘');
+INSERT INTO district (id, name_en, name_zh) VALUES ('ssp', 'Sham Shui Po', '深水埗');
+INSERT INTO district (id, name_en, name_zh) VALUES ('ysm', 'Yau Tsim Mong', '油尖旺');
+INSERT INTO district (id, name_en, name_zh) VALUES ('wts', 'Wong Tai Sin', '黃大仙');
+INSERT INTO district (id, name_en, name_zh) VALUES ('island', 'Islands', '離島');
+INSERT INTO district (id, name_en, name_zh) VALUES ('kc', 'Kwai Tsing', '葵青');
+INSERT INTO district (id, name_en, name_zh) VALUES ('north', 'North', '北區');
+INSERT INTO district (id, name_en, name_zh) VALUES ('sk', 'Sai Kung', '西貢');
+INSERT INTO district (id, name_en, name_zh) VALUES ('st', 'Sha Tin', '沙田');
+INSERT INTO district (id, name_en, name_zh) VALUES ('tp', 'Tai Po', '大埔');
+INSERT INTO district (id, name_en, name_zh) VALUES ('tw', 'Tsuen Wan', '荃灣');
+INSERT INTO district (id, name_en, name_zh) VALUES ('tm', 'Tuen Mun', '屯門');
+INSERT INTO district (id, name_en, name_zh) VALUES ('yl', 'Yuen Long', '元朗');
